@@ -22,7 +22,7 @@ function NavigationBar() {
           <Nav className="me-auto">
 
             <Nav.Link as={Link} to="/">
-              Start
+              Hem
             </Nav.Link>
 
             <Nav.Link as={Link} to="/about">
