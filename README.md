@@ -22,3 +22,11 @@ Klona projektet:
 
 ```bash
 git clone https://github.com/themyzteziz/kattbutik-react.git
+
+Installera dependencies:
+
+npm install
+
+Starta projektet:
+
+npm run dev
