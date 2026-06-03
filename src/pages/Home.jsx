@@ -1,6 +1,7 @@
 import Container from 'react-bootstrap/Container'
 import Card from 'react-bootstrap/Card'
 
+// Home page for the cat shop
 function Home() {
   return (
     <Container className="text-center mt-5">
