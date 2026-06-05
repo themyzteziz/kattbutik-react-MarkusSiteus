@@ -1,6 +1,7 @@
 import Container from 'react-bootstrap/Container'
 import Card from 'react-bootstrap/Card'
 
+// About page with information about the cat shop owner
 function About() {
   return (
     <Container className="mt-5">

@@ -1,3 +1,4 @@
+// Fetches cat breeds from The Cat API
 const API_URL = 'https://api.thecatapi.com/v1/breeds?limit=30'
 
 export async function getCats() {

@@ -17,6 +17,7 @@ function Cats() {
 
   const catsPerPage = 10
 
+  // Fetches cat data from the API when the page loads
   useEffect(() => {
 
   async function loadCats() {
@@ -30,7 +31,7 @@ function Cats() {
 
 }, [])
 
-  // Räknar ut vilka katter som ska visas
+  // Calculates which cats to display on the current page
   const start = (currentPage - 1) * catsPerPage
   const end = start + catsPerPage
 
