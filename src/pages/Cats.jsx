@@ -6,7 +6,7 @@ import Col from 'react-bootstrap/Col'
 
 import CatCard from '../components/CatCard' 
 
-import { getCats } from '../services/catService'
+import { getCats } from '../Services/catService'
 
 import Pagination from '../components/Pagination'
 
