@@ -1,4 +1,4 @@
-# Kattbutik React
+# Kattbutik React - Markus Siteus
 
 En kattbutik byggd med React, React Router och React Bootstrap.
 
