@@ -9,7 +9,7 @@ En kattbutik byggd med React, React Router och React Bootstrap.
 - Lista över kattraser från The Cat API
 - Pagination för att bläddra mellan katter
 
-## Tekniker
+## Verktyg
 
 - React
 - React Router
