@@ -31,7 +31,7 @@ function Cats() {
 
 }, [])
 
-  // Calculates which cats to display on the current page
+  
   const start = (currentPage - 1) * catsPerPage
   const end = start + catsPerPage
 
